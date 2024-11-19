@@ -1,0 +1,11 @@
+# openai
+# python-dotenv
+faiss-cpu
+langchain
+langchain_huggingface
+# langchain-openai
+langchainhub
+langchain-community
+pypdf
+sentence-transformers
+tf-keras
